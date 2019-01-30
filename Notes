@@ -1,0 +1,14 @@
+
+
+Strings
+//Indexing 
+// character     : h  e  l  l  o
+// Index         : 0  1  2  3  4
+// Reverse Index : 0 -4 -3 -2 -1
+
+//Slicing
+// Grab a subsection of multiple chracters
+[start:stop:step] // Start = Numberical index for slice start
+                  // stop = index you will go up to *but not include
+                  // step = size of the "jump" you take
+                 
